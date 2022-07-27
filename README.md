@@ -141,6 +141,11 @@ sudo systemctl restart strided && journalctl -u strided -f -o cat
 
 # Discorddan role-requestten rol de alabılırsınız.
 
+
+<img src="https://github-readme-stats.vercel.app/api?username=kebapTest&show_icons=true&theme=highcontrast" align="left" width="450" height="350" >
+
+
+
 # Hesaplar:
 
 [<img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="16px"> Twitter   ](https://twitter.com/Ruesandora0) 
